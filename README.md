@@ -4,7 +4,7 @@ Windows 10 Developer's Edition (Codename CEV2) is a customized version of Window
 
 # Changelog:
 
-Everything included in its [BSE base](https://pastebin.com/iuMPQg76), plus:
+Everything included in its [BSE base](https://github.com/IveMalfunctioned/Win10DebloatedBSE/releases/tag/v1), plus:
 - Custom Wallpaper
 - God Mode is enabled on the desktop
 - Custom start menu layout
