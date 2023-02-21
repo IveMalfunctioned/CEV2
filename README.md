@@ -30,3 +30,7 @@ Everything included in its [v2.1 BSE base](https://pastebin.com/iuMPQg76), plus:
 # Download:
 
 https://www.mediafire.com/file/4m3ghob7c8l0yza/Windows+10+Developer's+Edition.iso/file
+⁯
+⁯
+⁯
+For more information on how this was created, join the [Windows Modding Discord](https://discord.gg/hzScjC9re6).
