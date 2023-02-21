@@ -1,4 +1,4 @@
-#Windows 10 Developer's Edition
+# Windows 10 Developer's Edition
 
 Windows 10 Developer's Edition (Codename CEV2) is a customized version of Windows 10 aimed towards developers. This build is the version 2 of the now defunct Windows modding group WinGamo's [Windows "Coding Edition"](https://imgur.com/a/iepwBQ4) (hence the codename), and includes tools and software for development (primarily C++ and Python) and a few for power users.
 
