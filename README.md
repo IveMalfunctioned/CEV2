@@ -31,7 +31,12 @@ Everything included in its [BSE base](https://github.com/IveMalfunctioned/Win10D
 
 https://www.mediafire.com/file/4m3ghob7c8l0yza/Windows+10+Developer's+Edition.iso/file
 
-⁯
+## Licensing:
+Since I am in no way affiliated with Microsoft or the development of Windows and also do not hold any rights to Microsoft Windows, **the terms of use are the same as Microsoft's.**
+
+This includes: Basing your own mod off of this build, using it for commercial purposes, or for personal use.
+
+Since this is a customized mod, I would prefer if you could credit my GitHub page for the mod. Thanks!
 
 ⁯
 
